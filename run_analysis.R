@@ -179,3 +179,6 @@ tidy_data <- aggregate(. ~ subject + activity, filtered_data, mean)
 
 # Clear out the old data.
 rm(filtered_data)
+
+# Write the data to a text file
+write.table(tidy_data, "coursera_getdata_005_project_tidy_data.txt", row.names = F)
