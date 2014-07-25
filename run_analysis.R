@@ -1,7 +1,7 @@
 # Script for analyzing data from Coursera Getting and Cleaning Data course
 # 
 # Orville Jackson
-# Created 7-17-2014 Last modified 7-21-2014
+# Created 7-17-2014 Last modified 7-24-2014
 
 # BEFORE RUNNING THIS SCRIPT:
 # Please note that this script will download
